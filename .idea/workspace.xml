@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37dc265d-60dc-40de-8fc6-e954954dc0a7" name="Default Changelist" comment="" />
+    <list default="true" id="37dc265d-60dc-40de-8fc6-e954954dc0a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/..." beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +53,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603147260122</updated>
-      <workItem from="1603147261178" duration="633000" />
+      <workItem from="1603147261178" duration="1024000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603148225695">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="678" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.832@0.23.1440.832" timestamp="1603148225695" />
+    <state x="535" y="177" key="Vcs.Push.Dialog.v2" timestamp="1603147703627">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="535" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1603147703627" />
   </component>
 </project>
